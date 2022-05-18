@@ -1,0 +1,35 @@
+/* 1577232000000 is the number of milliseconds between jan 1 1970 and dec 25 2019*/
+
+html {
+	background-color: rgb(0, 1, 31);
+}
+
+a:link {
+	color: #ff8000;
+}
+
+a:visited {
+	color: #008080;
+}
+
+a:hover {
+	color: #ffbc79;
+}
+
+a:active {
+	color: #ffffff;
+}
+
+#container {
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-top: 5px;
+	background-color: rgb(0, 59, 99);
+	color: #ffffff;
+	text-align: center;
+	width: 70%;
+	height: 90%;
+	border: 3px black solid;
+}
