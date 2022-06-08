@@ -1,5 +1,5 @@
 const from1970torotp = 1577232000000;
-const from1870torelease = 1496790000000;
+const from1970torelease = 1496790000000;
 
 const d = new Date();
 
